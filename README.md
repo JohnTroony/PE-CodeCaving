@@ -11,6 +11,6 @@ Work/Lab files for my blog post series "Code Caving in a PE file " on http://www
 ----------------------
 ### Shout out to:
 
-* @secretsquirrel  - [The Backdoor Factory (BDF)](https://github.com/secretsquirrel/the-backdoor-factory) 
+* [@secretsquirrel](https://github.com/secretsquirrel)  - [The Backdoor Factory (BDF)](https://github.com/secretsquirrel/the-backdoor-factory) 
 * Guys at ```irc.freenode.net #BDFactory```
-* @0x7678 - Reverse Engineering  at [AfricaHackOn](http://africahackon.com/)
+* [@0x7678](https://github.com/0x7678) - Reverse Engineering  at [AfricaHackOn](http://africahackon.com/)
